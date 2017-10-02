@@ -5,4 +5,4 @@ INSTALLATION
 -Sourcemod 1.7 ou supérieur requis
 
 -déplacer le fichier ytmusic.smx dans le dossier addons/sourcemod/plugins 
--redemarré votre serveur
+-redemarré votre serveur de jeu
