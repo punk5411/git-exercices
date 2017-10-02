@@ -32,7 +32,7 @@ char motd_url[MAXPLAYERS + 1][555];
 
 public Plugin myinfo =  {
 	name = "Youtube Music Player", 
-	author = "TINTINTINTINTIN BATGIRL TINTINTINTINTIN", 
+	author = "TINTINTINTINTIN BATGIRL  TINTINTINTINTIN", 
 	description = "youtube for sourcemod", 
 	version = PLUGIN_VERSION, 
 	url = ""
